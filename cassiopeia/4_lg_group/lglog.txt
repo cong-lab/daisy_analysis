@@ -1,0 +1,50 @@
+LINEAGE GROUP OUTPUT LOG:
+43097 UMIs (rows), with 14 attributes (columns)
+9860 Cells
+LG1 Assignment: 8240 cells assigned
+75841 UMIs (rows), with 14 attributes (columns)
+9996 Cells
+LG2 Assignment: 0 cells assigned
+80483 UMIs (rows), with 14 attributes (columns)
+9995 Cells
+LG1 Assignment: 5441 cells assigned
+LG2 Assignment: 272 cells assigned
+LG1 Assignment: 2769 cells assigned
+Final LG assignments:
+LG 0.0: 1595 cells
+LG 1.0: 8240 cells
+FILTER CELL BARCODES:
+Initial:
+# UMIs: 36309
+# Cell BCs: 9835
+LG3 Assignment: 0 cells assigned
+LG2 Assignment: 96 cells assigned
+LG3 Assignment: 0 cells assigned
+Post:
+# UMIs: 36309
+# Cell BCs: 9835
+
+Final LG assignments:
+LG 0.0: 4281 cells
+LG 1.0: 5441 cells
+LG 2.0: 272 cells
+FILTER CELL BARCODES:
+Initial:
+# UMIs: 55150
+# Cell BCs: 9994
+Post:
+# UMIs: 55150
+# Cell BCs: 9994
+
+Final LG assignments:
+LG 0.0: 7120 cells
+LG 1.0: 2769 cells
+LG 2.0: 96 cells
+FILTER CELL BARCODES:
+Initial:
+# UMIs: 35163
+# Cell BCs: 9985
+Post:
+# UMIs: 35163
+# Cell BCs: 9985
+

@@ -1,0 +1,1 @@
+v1 encodings are problematic, since you artificially randomly grouped allele calls together by randomly assigning each read to a set of 1e4 unique cell barcodes

@@ -1,0 +1,63 @@
+LINEAGE GROUP OUTPUT LOG:
+485 UMIs (rows), with 14 attributes (columns)
+421 Cells
+LG4 Assignment: 28 cells assigned
+LG1 Assignment: 134 cells assigned
+LG5 Assignment: 36 cells assigned
+LG2 Assignment: 209 cells assigned
+LG6 Assignment: 19 cells assigned
+LG3 Assignment: 60 cells assigned
+LG7 Assignment: 16 cells assigned
+LG4 Assignment: 8 cells assigned
+LG8 Assignment: 5 cells assigned
+LG5 Assignment: 4 cells assigned
+LG9 Assignment: 2 cells assigned
+LG6 Assignment: 3 cells assigned
+LG10 Assignment: 2 cells assigned
+LG7 Assignment: 1 cells assigned
+LG8 Assignment: 1 cells assigned
+LG11 Assignment: 2 cells assigned
+LG9 Assignment: 1 cells assigned
+LG12 Assignment: 0 cells assigned
+LG10 Assignment: 0 cells assigned
+Final LG assignments:
+LG 1.0: 179 cells
+LG 2.0: 128 cells
+LG 3.0: 47 cells
+LG 4.0: 28 cells
+LG 5.0: 19 cells
+LG 6.0: 16 cells
+LG 7.0: 13 cells
+LG 8.0: 5 cells
+LG 9.0: 2 cells
+LG 10.0: 2 cells
+LG 11.0: 2 cells
+FILTER CELL BARCODES:
+Initial:
+# UMIs: 450
+# Cell BCs: 441
+Final LG assignments:
+LG 1.0: 209 cells
+LG 2.0: 134 cells
+LG 3.0: 60 cells
+LG 4.0: 8 cells
+LG 5.0: 4 cells
+LG 6.0: 3 cells
+LG 7.0: 1 cells
+LG 8.0: 1 cells
+LG 9.0: 1 cells
+FILTER CELL BARCODES:
+Initial:
+# UMIs: 424
+# Cell BCs: 421
+Post:
+# UMIs: 450
+# Cell BCs: 441
+
+Post:
+# UMIs: 424
+# Cell BCs: 421
+
+Final allele table written to /labs/congle/PRT/20200905_dzy_crop_bc_qc/custom_lin_recon/cassiopeia/4_lg_group/20200923_B_pick1_alleleTable.txt
+Total time: 9.589980363845825Final allele table written to /labs/congle/PRT/20200905_dzy_crop_bc_qc/custom_lin_recon/cassiopeia/4_lg_group/20200923_A_pick1_alleleTable.txt
+Total time: 13.17328405380249
